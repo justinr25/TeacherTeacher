@@ -4,6 +4,9 @@
 
 An autonomous mentorship platform that watches, listens, and proactively coaches teachers as they teach — powered by **Gemini Live API** with multimodal audio + vision.
 
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/teacherteacher)
+[![Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube&logoColor=white)](your-video-link)
+
 [![Built at SpartaHack](https://img.shields.io/badge/Built%20at-SpartaHack%202026-10b981?style=for-the-badge)](https://spartahack.com)
 [![Gemini Live API](https://img.shields.io/badge/Gemini-Live%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
